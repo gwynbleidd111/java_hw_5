@@ -4,7 +4,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Hw3 {
+public class Task1 {
     public static void main(String[] args) {
         Map<String, String> phonebook = new HashMap<>();
         phonebook.put("Антон", "+79991111111");
